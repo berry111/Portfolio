@@ -1,0 +1,33 @@
+header {
+    align: center;
+}
+.portrait {
+    width:100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+}
+h2 {
+    margin-top:-8%;
+}
+.a {
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background: grey;
+}
+
+.sidebar {
+    width: 15%;
+    height: 100%;
+    margin-top: 5%;
+    margin-left: 2%;
+    text-align: center;
+    background: red;
+}
